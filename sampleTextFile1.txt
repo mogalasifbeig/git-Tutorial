@@ -1,2 +1,5 @@
 This is a text File, text is ok.File is updating, 
-some new code changes update.
+some new code changes update,
+new code changes.
+after vs code
+vi editor changing.
